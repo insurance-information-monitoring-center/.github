@@ -1,0 +1,1 @@
+![banner](https://github.com/insurance-information-monitoring-center/.github/blob/main/profile/banner.jpg)
